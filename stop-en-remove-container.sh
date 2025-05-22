@@ -1,0 +1,3 @@
+echo rebooting...
+docker rm -f odw2-cont
+
